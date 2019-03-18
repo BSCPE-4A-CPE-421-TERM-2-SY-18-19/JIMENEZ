@@ -1,0 +1,6 @@
+1.) How did the raspberry pi work?
+ - The raspberry pi worked because the charger being used was compatible with the version 
+which is the rasp pi B. At first testing, we used the charger of the rasp pi model B+ but it
+didn't work. Then after which we try the charger with the same model of the rasp pi we're 
+troubleshooting which is the rasp pi model B, it worked. 
+ 

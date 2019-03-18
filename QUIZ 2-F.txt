@@ -1,0 +1,13 @@
+PC PROBLEM/ERROR:
+ PC won't boot to BIOS
+Possible Cause of the Problem 
+1.Misplaced front panel connectors-the first place to start is with the front panel
+connectors.It seems silly that we still have to tumble around with a group of tiny wires while
+referencing positive/negative schematics outlined in motherboard manual,but that's how it is.
+2.Incorrectly seated RAM- make sure that you choose the right RAM and make sure that it is fully 
+seated,as this is one of the common reasons why a PC fails to boot.
+3.Missing power supply cables- be sure that you've plugged the appropriate PSU cables to the motherboards
+4 pin or 8 pin CPU connector.
+4.Overheating CPU-the first thing to look is the fan header.Make sure that you cooler's fan is plugged
+into the CPU fan header on your motherboard.Remove and re-install the CPU cooler.Hopefully by reseating 
+the cooler,it will make proper contact with the CPU, allowing your PC to boot
