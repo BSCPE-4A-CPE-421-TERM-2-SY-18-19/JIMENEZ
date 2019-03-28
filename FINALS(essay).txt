@@ -1,0 +1,42 @@
+	The things that I learned in the subject troubleshooting of computer systems are identifying the different parts, functions, its problems and solution 
+and maintenance of a computer system. Computer systems have a lot of parts and its corresponding function which is really needed to get familiarize with. 
+Whenever there is a problem in the computer I easily get panic and wouldn’t know what to do but later on I was able to know that there are many basic troubleshooting 
+techniques you can use to fix issues like this. 
+	Computer maintenance is also an important practice of keeping computers in a good state of repair. A computer containing accumulated dust and debris may not 
+run properly. Dust and debris will accumulate as a result of air cooling. Any filters used to mitigate this need regular service and changes. If the cooling system is 
+not filtered then regular computer cleaning may prevent short circuits and overheating. In maintaining the keyboard one must clean the keyboard, the crumbs, dust, and 
+other particulate that fall between the keys and build up underneath are loosened by spraying pressurized air into the keyboard then removed with a low-pressure vacuum 
+cleaner. A plastic-cleaning agent applied to the surface of the keys with a cloth is used to remove the accumulation of oil and dirt from repeated contact with a 
+user's fingertips. If this is not sufficient for a more severely dirty keyboard, keys are physically removed for more focused individual cleaning, or for better access 
+to the area beneath. Finally, the surface is wiped with a disinfectant. 
+	For the monitor, a monitor displays information in visual form, using text and graphics. The portion of the monitor that displays the information is called 
+the screen. Like a television screen, a computer screen can show still or moving pictures and it’s a part of Output Devices. There are two basic types of monitors: 
+CRT (cathode ray tube) monitors and LCD (liquid crystal display) monitors. Both types produce sharp images, but LCD monitors have the advantage of being much thinner 
+and lighter. CRT monitors, however, are generally more affordable. Fingerprints, water spots, and dust are removed from the screen with a cleaning wipe specialized for 
+the screen type (CRT, LCD, etc.). A general plastic-cleaning agent is used on the outer casing, which requires a less gentle cleanser but may need more focused 
+attention to unusual buildups of dust, grime, pen marks, etc. idiosyncratic to the user and environment. 
+	Another basic part of the computer is the mouse. The top surface of the mouse is wiped with a plastic cleanser to remove the dirt that accumulates from contact
+ with the hand, as on the keyboard. The bottom surface is also cleaned to ensure that it can slide freely. If it is a mechanical mouse, the trackball is taken out, 
+not only to clean the ball itself, but to scrape dirt from the runners that sense the ball's movement and can become jittery or stuck if impeded by grime.
+	Upon researching I’ve learned that there are two main components of system maintenance such as the preventive and corrective maintenance. Preventive 
+maintenance involves routine tasks to ensure that your system is running optimally and to avoid problems before they arise. There are several preventative measures 
+you can take, including installing Windows updates, scanning for viruses and malware, and running cleaning programs. Anti-virus and anti-malware scans should be run
+at least once a week. Be sure to run updates for these programs whenever they released, as new viruses and malware spring up constantly. Keeping your network secure,
+installing a firewall, and using safe downloading practices can protect your computer and any information on it from being compromised. Power surges and overheating
+can destroy electronic equipment, so protect your hardware by investing in a surge protector and cleaning your equipment periodically to remove dust. Should any
+preventative measures fail, it is always a good idea to have a backup for important files: Invest in an external hard drive to save any important files should your 
+computer need replacing. 
+	Corrective maintenance, commonly referred to as 'repair,' is the correction of a problem after the computer has already broken down. The goal of this form 
+of maintenance is to restore operability to the system by either correcting the problem or replacing the damaged components. Common corrective measures involve 
+removing viruses and malware, uninstalling harmful programs, reformatting, and running a system restore, among others. Many common computer problems are easily fixed 
+and don't require an IT professional. To perform corrective maintenance, it is important to first diagnose the problem and figure out the root cause. If you are
+ unsure of the cause or how to fix your problem, consulting an IT professional would be the best course of action. 
+	There are many small steps one can take to optimize computer performance so it is faster and more reliable. Not having sufficient hard-drive space can slow 
+down your computer significantly. Clear out hard-drive space by removing unnecessary programs and defragmenting your hard drive. Defragmentation helps speed up your 
+computer and should be performed at least once a month. When you install new programs, you will often be presented with the option of having the program start 
+automatically when you turn on the computer; sometimes, this is the default option. The more programs you have running automatically, the slower the performance 
+of your computer, so you should disable this whenever possible. To make your Internet connection run faster, one of the simplest things you can do is to clear your 
+Web history and delete temporary Internet files. The more often you perform these actions, the less time it takes, so try to aim for at least once a week. Spyware 
+and malware can also be the cause of slow Internet speed. Make sure you have anti-malware programs installed, update them whenever necessary, and run a scan at least 
+once a week. You can avoid spyware and malware by exercising safe downloading practices, such as downloading from reputable sites. If you are unsure of the safety or 
+legitimacy of a program, run a Google search to see what information you can find, and it you're still in doubt, refrain from installing the program completely.
