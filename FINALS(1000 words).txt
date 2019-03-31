@@ -1,0 +1,47 @@
+	The things that I learned in the subject troubleshooting of computer systems are identifying the different parts, functions, its problems and 
+solution and maintenance of a computer system. Computer systems have a lot of parts and its corresponding function which is really needed to get familiarize with. 
+Whenever there is a problem in the computer I easily get panic and wouldn’t know what to do but later on I was able to know that there are many basic troubleshooting 
+techniques you can use to fix issues like this. 
+	Computer maintenance is also an important practice of keeping computers in a good state of repair. A computer containing accumulated dust and debris may not 
+run properly. Dust and debris will accumulate as a result of air cooling. Any filters used to mitigate this need regular service and changes. If the cooling system 
+is not filtered then regular computer cleaning may prevent short circuits and overheating. In maintaining the keyboard one must clean the keyboard, the crumbs, dust, 
+and other particulate that fall between the keys and build up underneath are loosened by spraying pressurized air into the keyboard then removed with a low-pressure 
+vacuum cleaner. A plastic-cleaning agent applied to the surface of the keys with a cloth is used to remove the accumulation of oil and dirt from repeated contact with 
+a user's fingertips. If this is not sufficient for a more severely dirty keyboard, keys are physically removed for more focused individual cleaning, or for better 
+access to the area beneath. Finally, the surface is wiped with a disinfectant.
+	There was this incident when I accidentally spill some water on the keyboard then I panicked and turn the keyboard upside down and wipe some cloth in it. 
+Then I leave it for a couple of hours to be sure. I thought that I was doing the wrong thing but it turns out it was the proper thing to do when you encounter that 
+kind of accident. I’ve also experience where the laptop suddenly turns off, I thought that there was something wrong with the components at that time I was really 
+not confident enough to explore the laptop and do some new experience but as I get older I was able to realize that it is not bad to try new things and you will not 
+learn anything unless you try to do something about it. I was really eager to learn more about hardware components of the computer but life is about balancing your 
+time properly and making the right choice but I was not born naturally smart so I have to work double or maybe triple the effort of others, I’ve only learned the 
+basics but I think it’s not bad. As I researched the problem you have to check first the cause of the problem. There were list of different causes of the problem 
+and the one that really fits the situation it that the laptop is very hot due to too much usage and the fan of the laptop is not working properly because there’s 
+so much dust stuck in the fan plus I was working on the very humid environment. I’ve tried opening the laptop and then cleaned the fan. After the cleaning I can now 
+use the laptop without suddenly shutting down.
+ 	There’s another problem regarding viruses. There are different opinions regarding on your proper safety with your laptops. Other says that it is not really 
+safe to have anti-virus software because it can only I don’t really know the term but it “attracts” or it is the gateway of the viruses to corrupt your files. Maybe 
+the genuine anti-virus is the best choice but I think it’s really expensive. Other says that it is better to not have that kind of software. One way to have your 
+files and software safe is to update your windows maybe once a month. I’ve read some article that it is best if you update your windows for easy usage and more 
+features.  I’ve also read about preventive and corrective maintenance. Preventive maintenance involves routine tasks to ensure that your system is running optimally 
+and to avoid problems before they arise. There are several preventative measures you can take, including installing Windows updates, scanning for viruses and malware, 
+and running cleaning programs. Anti-virus and anti-malware scans should be run at least once a week. Be sure to run updates for these programs whenever they released, 
+as new viruses and malware spring up constantly. Keeping your network secure, installing a firewall, and using safe downloading practices can protect your computer 
+and any information on it from being compromised. Power surges and overheating can destroy electronic equipment, so protect your hardware by investing in a surge 
+protector and cleaning your equipment periodically to remove dust. Should any preventative measures fail, it is always a good idea to have a backup for important 
+files: Invest in an external hard drive to save any important files should your computer need replacing. 
+	Corrective maintenance, commonly referred to as 'repair,' is the correction of a problem after the computer has already broken down. The goal of this form 
+of maintenance is to restore operability to the system by either correcting the problem or replacing the damaged components. Common corrective measures involve 
+removing viruses and malware, uninstalling harmful programs, reformatting, and running a system restore, among others. Many common computer problems are easily 
+ixed and don't require an IT professional. To perform corrective maintenance, it is important to first diagnose the problem and figure out the root cause. If you 
+are unsure of the cause or how to fix your problem, consulting an IT professional would be the best course of action.  
+	I’ve also experience when the performance of the computer is very slow so I’ve do some research and I was able to read some information like there are 
+many small steps one can take to optimize computer performance so it is faster and more reliable. Not having sufficient hard-drive space can slow down your computer 
+significantly. Clear out hard-drive space by removing unnecessary programs and defragmenting your hard drive. Defragmentation helps speed up your computer and should 
+be performed at least once a month. When you install new programs, you will often be presented with the option of having the program start automatically when you 
+turn on the computer; sometimes, this is the default option. The more programs you have running automatically, the slower the performance of your computer, so you 
+should disable this whenever possible. To make your Internet connection run faster, one of the simplest things you can do is to clear your Web history and delete 
+temporary Internet files. The more often you perform these actions, the less time it takes, so try to aim for at least once a week. Spyware and malware can also be 
+the cause of slow Internet speed. Make sure you have anti-malware programs installed, update them whenever necessary, and run a scan at least once a week. You can 
+avoid spyware and malware by exercising safe downloading practices, such as downloading from reputable sites. If you are unsure of the safety or legitimacy of a 
+program, run a Google search to see what information you can find, and it you're still in doubt, refrain from installing the program completely.
